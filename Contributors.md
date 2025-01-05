@@ -1323,6 +1323,7 @@ YoucefBoursali
 - [its-TROY](https://github.com/its-TROY)
 - [Aditya Shekhar](https://github.com/Aditya-76)
 - [A Z Hasnain Kabir](https://github.com/HasnainKabir-repos)
+- [Zoya Shaikh](https://github.com/Zoya-Sk) - Contributing First time in Open Source for practice. Looking forward to more contributions in future.
 - [donkeeman](https://github.com/donkeeman)
 - [adamsocki](https://github.com/adamsocki)
 - [Adam Steiger](https://github.com/adamstgr)
